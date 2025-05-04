@@ -6,13 +6,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".GameActivity">
+    tools:context=".GameActivity2">
 
     <TextView
         android:id="@+id/word"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="36dp"
+        android:textSize="22sp"
         android:gravity="center"
         android:text=""
         app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"
@@ -28,7 +28,7 @@
         android:gravity="center"
         android:text=""
         android:textColor="@color/white"
-        android:textSize="18dp"
+        android:textSize="16dp"
         app:layout_constraintBottom_toTopOf="@+id/word"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -72,43 +72,48 @@
 
             <Button
                 android:id="@+id/btn_11"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="1" />
 
             <Button
                 android:id="@+id/btn_12"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="2" />
 
             <Button
                 android:id="@+id/btn_13"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="3" />
 
             <Button
                 android:id="@+id/btn_14"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="4" />
 
             <Button
                 android:id="@+id/btn_15"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-style="@style/CustomGameButton" />
+                android:text="5" />
         </LinearLayout>
 
         <!-- Second row -->
@@ -122,43 +127,48 @@ style="@style/CustomGameButton" />
 
             <Button
                 android:id="@+id/btn_21"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="6" />
 
             <Button
                 android:id="@+id/btn_22"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="7" />
 
             <Button
                 android:id="@+id/btn_23"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="8" />
 
             <Button
                 android:id="@+id/btn_24"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="9" />
 
             <Button
                 android:id="@+id/btn_25"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="10" />
         </LinearLayout>
 
         <!-- Third row -->
@@ -172,45 +182,51 @@ style="@style/CustomGameButton" />
 
             <Button
                 android:id="@+id/btn_31"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="1" />
 
             <Button
                 android:id="@+id/btn_32"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="2" />
 
             <Button
                 android:id="@+id/btn_33"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="3" />
 
             <Button
                 android:id="@+id/btn_34"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="4" />
 
             <Button
                 android:id="@+id/btn_35"
+                style="@style/CustomGameButton"
                 android:layout_width="0dp"
                 android:layout_height="52dp"
                 android:layout_margin="2dp"
                 android:layout_weight="1"
-                style="@style/CustomGameButton" />
+                android:text="5" />
         </LinearLayout>
 
     </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

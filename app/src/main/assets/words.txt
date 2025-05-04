@@ -1,96 +1,96 @@
-Law
-Constitution
-Right
-Obligation
-Bill
-Judge
-Court
-Law enforcement
-Legal liability
-Justice
-Lawyer
-Violation of law
-Legal document
-Civil rights
-Legal advocate
-Rule of law
-Social contract
-Legal regulation
-Criminal legislation
-Civil code
-Contract
-Emotional distress
-Legality
-Legal entity
-Supreme Court
-Legal precedent
-Self-defense
-Lawsuit
-Trustee
-Prosecutor
-Crime
-Criminal
-Theft
-Fraud
-Bribery
-Criminal organization
-Felony
-Misdemeanor
-Police
-Arrest
-Investigation
-Evidence
-Witnesses
-Verdict
-Imprisonment
-Parole
-Criminal code
-Vandalism
-Cybercrime
-Trespassing
-Money laundering
-Conspiracy
-Illegal possession of firearms
-Homicide
-Criminal negligence
-Extortion
-Hostage-taking
-Identity theft
-Hooliganism
-Alibi
-Prison break
-Defendant
-Defense attorney
-Government
-State
-Authority
-President
-Prime Minister
-Parliament
-Government agency
-Legislative body
-Executive power
-Judicial power
-Politics
-Minister
-Economic policy
-Human rights
-Tariffs
-State budget
-Social security
-Official decision
-Governor
-Central authority
-Local government
-Civil service
-System of governance
-Branches of power
-Legislative body
-Presidential system
-Parliamentary system
-Diplomacy
-Political party
-State supervision
-Electoral commission
-Referendum
-Public order
+Law - Օրենք - A system of rules created and enforced by a governing authority to regulate behavior within a society.
+Constitution - Սահմանադրություն - A set of fundamental principles or laws according to which a country or organization is governed.
+Right - Իրավունք - A legal entitlement or freedom that is protected by law.
+Obligation - Պարտավորություն - A legal or moral duty to do or not do something.
+Bill - Օրենքի նախագիծ - A proposed law presented to a legislative body for approval.
+Judge - Դատավոր - A public official who has the authority to hear and decide legal cases.
+Court - Դատարան - A place where legal cases are heard and justice is administered.
+Law enforcement - Օրենքի կիրառում - The system by which members of society obey the law, including the police and other agencies.
+Legal liability - Իրավական պատասխանատվություն - Responsibility under the law for one’s actions or inactions.
+Justice - Արդարադատություն - The fair and impartial treatment of all individuals under the law.
+Lawyer - Փաստաբան - A professional who practices law and represents clients in legal matters.
+Violation of law - Օրենքի խախտում - The act of breaking a legal rule or regulation.
+Legal document - Պաշտոնական փաստաթուղթ - A formal written document that states legal obligations or rights.
+Civil rights - Քաղաքացիական իրավունքներ - The rights of citizens to political and social freedom and equality.
+Legal advocate - Օրենքի պաշտպան - Someone who supports or defends a legal case or cause.
+Rule of law - Օրենքի գերակայություն - The principle that all people and institutions are subject to and accountable to law.
+Social contract - Հասարակական պայմանագիր - An implicit agreement among members of a society to cooperate for social benefits.
+Legal regulation - Իրավական կարգավորում - Rules or laws created by a government to control conduct.
+Criminal legislation - Քրեական օրենսդրություն - Laws related to crime and punishment.
+Civil code - Քաղաքացիական օրենսգիրք - A set of laws dealing with private rights and matters such as contracts, property, and family.
+Contract - Պայմանագիր - A legal agreement between two or more parties that is enforceable by law.
+Emotional distress - Հոգեբանական վնաս - Mental suffering caused by someone’s negligent or intentional actions.
+Legality - Օրինականություն - The quality or state of being in accordance with the law.
+Legal entity - Իրավաբանական անձ - An organization or individual that has legal rights and obligations.
+Supreme Court - Վճռաբեկ դատարան - The highest judicial court in a country.
+Legal precedent - Դատական նախադեպ - A previous court decision that influences future cases.
+Self-defense - Ինքնապաշտպանություն - The act of defending oneself from harm using reasonable force.
+Lawsuit - Դատական գործ - A legal action or claim brought to court.
+Trustee - Վստահված անձ - A person who manages property or assets for the benefit of another.
+Prosecutor - Պետական մեղադրող - A lawyer who represents the state and brings charges against someone accused of a crime.
+Crime - Հանցագործություն - An act that violates the law and is punishable by the government.
+Criminal - Հանցագործ - A person who has committed a crime.
+Theft - Գողություն - The act of taking someone else’s property without permission and with the intent to keep it.
+Fraud - Խարդախություն - The crime of cheating someone to gain money or advantage, often through lies or deception.
+Bribery - Կաշառք - Offering, giving, or receiving something valuable (like money) to influence someone’s actions illegally.
+Criminal organization - Հանցավոր խմբավորում - A group of people who work together to commit serious crimes.
+Felony - Ծանր հանցագործություն - A serious crime, such as murder or robbery, usually punished by a long prison sentence.
+Misdemeanor - Թեթև հանցագործություն - A less serious crime, often punishable by a fine or a short jail term.
+Police - Ոստիկանություն - The official body that enforces laws, prevents crime, and maintains public order.
+Arrest - Ձերբակալում - The act of being taken into custody by the police for suspected involvement in a crime.
+Investigation - Քննություն - The process of gathering facts and evidence to solve a crime.
+Evidence - Ապացույց - Information or objects used in court to prove whether someone is guilty or innocent.
+Witnesses - Վկաներ - People who have seen or have information about a crime and can give testimony.
+Verdict - Դատավճիռ - The official decision made by a jury or judge about a person’s guilt or innocence.
+Imprisonment - Բանտարկություն - The punishment of being confined in prison for committing a crime.
+Parole - Պայմանական ազատում - The early release of a prisoner under certain conditions before the full sentence is served.
+Criminal code - Քրեական օրենսգիրք - A set of laws that define crimes and the punishments for those crimes.
+Vandalism - Վանդալիզմ - The act of intentionally damaging or destroying public or private property.
+Cybercrime - Կիբերհանցագործություն - Criminal activities carried out using computers or the internet, such as hacking or online fraud.
+Trespassing - Ապօրինի մուտք - Entering someone’s property without permission.
+Money laundering - Փողերի լվացում - Hiding the illegal origin of money by making it appear legitimate.
+Conspiracy - Դավադրություն - A secret plan made by two or more people to commit a crime.
+Illegal possession of firearms - Անօրինական զենքի պահում - Having guns or weapons without legal permission.
+Homicide - Մարդասպանություն - The act of killing another person, whether lawful (e.g. self-defense) or unlawful (e.g. murder).
+Criminal negligence - Հանցավոր անփութություն - Failing to take reasonable care, leading to harm or death, and being held legally responsible.
+Extortion - Շորթում - Forcing someone to give you money or something else through threats or intimidation.
+Hostage-taking - Պատանդ վերցնել - The act of capturing and holding someone to demand something in return.
+Identity theft - Անձնական տվյալների գողություն - Stealing someone’s personal information to commit fraud or other crimes.
+Hooliganism - Խուլիգանություն - Disruptive, violent, or criminal behavior in public, often linked to groups or sporting events.
+Alibi - Ալիբի - Proof that someone was elsewhere when a crime occurred and thus could not have committed it.
+Prison break - Փախուստ բանտից - Escaping from a prison facility illegally.
+Defendant - Մեղադրյալ - The person accused of a crime in a court of law.
+Defense attorney - Դատապաշտպան - A lawyer who defends the accused in court.
+Government - Կառավարություն - The organization or group of people with the authority to govern a country or state.
+State - Պետություն - An organized political community under one government.
+Authority - Իշխանություն - The legal power or right to give orders and make decisions.
+President - Նախագահ - The head of state or government, depending on the country’s system.
+Prime Minister - Վարչապետ - The head of the government in parliamentary systems.
+Parliament - Խորհրդարան - A legislative body that makes or passes laws.
+Government agency - Կառավարական մարմին - A specialized unit that performs a specific government function.
+Legislative body - Օրենսդիր մարմին - A group of elected people who create laws.
+Executive power - Գործադիր իշխանություն - The branch that enforces and administers laws.
+Judicial power - Դատական իշխանություն - The branch that interprets laws and administers justice.
+Politics - Քաղաքականություն - Activities related to governance, policies, and power.
+Minister - Նախարար - A government official in charge of a specific department.
+Economic policy - Տնտեսական քաղաքականություն - A government’s plan for managing the economy through taxation, spending, interest rates, and labor regulations.
+Human rights - Մարդու իրավունքներ - Basic rights and freedoms that belong to every person, such as freedom of speech, equality, and protection from abuse.
+Tariffs - Մաքսատուրքեր - Taxes imposed on imported or exported goods, usually to protect domestic industries or raise government revenue.
+State budget - Պետական բյուջե - A financial plan showing a government’s expected income and expenses over a specific period.
+Social security - Սոցիալական ապահովություն - Government programs that provide financial assistance to people in need, such as the elderly, unemployed, or disabled.
+Official decision - Պաշտոնական որոշում - A formal choice or judgment made by a person or body in a position of authority.
+Governor - Նահանգապետ - An official who governs a state or province, often appointed or elected to oversee regional administration.
+Central authority - Կենտրոնական իշխանություն - The main governing body that holds power at the national level, usually overseeing the entire country.
+Local government - Տեղական ինքնակառավարում - Government bodies that manage local areas such as cities or towns, handling community services and regulations.
+Civil service - Քաղաքացիական ծառայություն - A body of government employees who carry out the daily work of public administration, not including elected officials or military personnel.
+System of governance - Կառավարման համակարգ - The structure and processes through which a country or organization is ruled or managed.
+Branches of power - Իշխանության ճյուղեր - The division of government into separate parts, typically legislative, executive, and judicial, to prevent abuse of power.
+Legislative body - Օրենսդրական մարմին - A group of elected representatives responsible for making and passing laws.
+Presidential system - Նախագահական ռեժիմ - A form of government where the president is the head of state and government, separate from the legislative branch.
+Parliamentary system - Խորհրդարանական համակարգ - A system of governance where the executive derives its legitimacy from the legislature and is accountable to it.
+Diplomacy - Դիվանագիտություն - The practice of managing international relations through negotiation and dialogue between countries.
+Political party - Քաղաքական կուսակցություն - An organized group of people with shared beliefs and goals that seeks to gain and exercise political power.
+State supervision - Պետական հսկողություն - Oversight and regulation conducted by government agencies to ensure compliance with laws and standards.
+Electoral commission - Ընտրական հանձնաժողով - An official body responsible for organizing and monitoring elections to ensure they are fair and legal.
+Referendum - Հանրաքվե - A direct vote by the public on a specific political or legislative issue.
+Public order - Պետական կարգ - The general peace and security maintained by law enforcement and legal systems in a society.

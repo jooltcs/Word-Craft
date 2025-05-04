@@ -23,28 +23,29 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-public class GameActivity extends AppCompatActivity {
+public class GameActivity3 extends AppCompatActivity {
     private List<TextView> letterViews = new ArrayList<>();
     private int currentLetterIndex = 0;
     String words_file = "words.txt";
     TextView word, result;
     String[] selected_line;
-    int result_value = 0;
+    int result_value3 = 0;
+    TextView writtenText;
     StringBuilder sb;
 
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_game);
+        setContentView(R.layout.activity_game3);
 
         Intent intent = getIntent();
 
         word = findViewById(R.id.word);
         result = findViewById(R.id.result);
-        result_value = intent.getIntExtra("result", 0);
-        result.setText(result_value + " / 10");
-        LinearLayout letterContainer = findViewById(R.id.letterContainer);
+        result_value3 = intent.getIntExtra("result3", 0);
+        result.setText(result_value3 + " / 10");
+        writtenText = findViewById(R.id.writtenText);
         sb = new StringBuilder("");
 
         selected_line = getWord(words_file, generateNumberLine(1, 95)).split(" - ");
@@ -52,24 +53,13 @@ public class GameActivity extends AppCompatActivity {
         if (selectedWord == null || selectedWord.trim().isEmpty()) selectedWord = "apple";
 
         selectedWord = selectedWord.toLowerCase();
-        word.setText(selected_line[1]);
+        word.setText(selected_line[2]);
 
-        LayoutInflater inflater = LayoutInflater.from(this);
-        for (int i = 0; i < selectedWord.length(); i++) {
-            addText(inflater, letterContainer);
-        }
 
         setupButtonsWithWord(selectedWord);
     }
 
-    private void addText(LayoutInflater inflater, LinearLayout letterContainer) {
-        View letterView = inflater.inflate(R.layout.letter_item, letterContainer, false);
-        TextView letterText = letterView.findViewById(R.id.letterContent);
-        letterViews.add(letterText);
-        letterContainer.addView(letterView);
-    }
-
-    private String getWord(String file_name, int lineNumber){
+    private String getWord(String file_name, int lineNumber) {
         try (InputStream inputStream = getAssets().open(file_name);
              BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {
             for (int i = 0; i < lineNumber; i++) {
@@ -124,34 +114,33 @@ public class GameActivity extends AppCompatActivity {
 
         for (Button button : allButtons) {
             button.setOnClickListener(v -> {
-                if (currentLetterIndex < letterViews.size()) {
-                    String letter = button.getText().toString();
-                    letterViews.get(currentLetterIndex).setText(letter);
-                    sb.append(letter);
-                    currentLetterIndex++;
+                String letter = button.getText().toString();
+                sb.append(letter);
+                writtenText.setText(sb.toString());
 
-                    if (currentLetterIndex == letterViews.size()) {
-                        String enteredWord = sb.toString();
-                        if (enteredWord.equals(selected_line[0].toLowerCase())) {
-                            Toast.makeText(this, "You passed this, try next word!", Toast.LENGTH_SHORT).show();
-                            result_value++;
-                            if (result_value == 2) {
-                                Intent intent = new Intent(GameActivity.this, GameActivity2.class);
-                                startActivity(intent);
-                            } else {
-                                Intent intent = new Intent(GameActivity.this, GameActivity.class);
-                                intent.putExtra("result", result_value);
-                                startActivity(intent);
-                            }
+                if (sb.length() == selected_line[0].length()) {
+                    String enteredWord = sb.toString();
+                    if (enteredWord.equals(selected_line[0].toLowerCase())) {
+                        Toast.makeText(this, "You passed this, try next word!", Toast.LENGTH_SHORT).show();
+                        result_value3++;
+
+                        if (result_value3 == 2) {
+                            Intent intent = new Intent(GameActivity3.this, MainActivity.class);
+                            startActivity(intent);
                         } else {
-                            Toast.makeText(this, "Try another word!", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(GameActivity.this, GameActivity.class);
-                            intent.putExtra("result", result_value);
+                            Intent intent = new Intent(GameActivity3.this, GameActivity3.class);
+                            intent.putExtra("result3", result_value3);
                             startActivity(intent);
                         }
+                    } else {
+                        Toast.makeText(this, "Try another word!", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(GameActivity3.this, GameActivity3.class);
+                        intent.putExtra("result3", result_value3);
+                        startActivity(intent);
                     }
                 }
             });
+
         }
     }
 }
